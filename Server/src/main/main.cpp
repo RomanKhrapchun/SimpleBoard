@@ -1,4 +1,4 @@
-#include "main/Resource.hpp"
+#include "main/Resource.cpp"
 
 #include <csignal>
 
