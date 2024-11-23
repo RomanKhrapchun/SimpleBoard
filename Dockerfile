@@ -2,7 +2,7 @@
 FROM gcc:latest AS linux_builder
 WORKDIR /app
 COPY . /app
-RUN g++ -o app_linux /Server/src/main/main.cpp
+RUN g++ -o app_linux /app/Server/src/main/main.cpp
 
 # Додаємо базовий образ для Windows через cross-compilation (MinGW)
 FROM gcc:latest AS windows_builder
