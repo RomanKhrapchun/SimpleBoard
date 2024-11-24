@@ -2,9 +2,6 @@
 #include "../../include/service/SystemResourceService.hpp"
 #include "../../include/util/ArgvUtil.hpp"
 
-#include "../service/SystemResourceService.сpp"
-#include "../util/ArgvUtil.сзp"
-
 #include <csignal>
 
 void signalHandler(int sig) {
