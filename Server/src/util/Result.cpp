@@ -1,4 +1,4 @@
-#include "util/Result.hpp"
+#include "../../include/util/Result.hpp"
 
 Result::Result() {
     this->clear();

@@ -1,4 +1,4 @@
-#include "util/ThreadManager.hpp"
+#include "../../include/util/ThreadManager.hpp"
 
 ThreadManager::ThreadManager() {
 

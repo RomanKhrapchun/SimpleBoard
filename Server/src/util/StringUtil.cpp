@@ -1,4 +1,4 @@
-#include "util/StringUtil.hpp"
+#include "../../include/util/StringUtil.hpp"
 
 StringUtil::StringUtil() {
 
