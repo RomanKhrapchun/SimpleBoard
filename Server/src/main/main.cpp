@@ -1,6 +1,6 @@
-#include "Server/include/main/Resource.hpp"
-#include "Server/include/util/ArgvUtil.hpp"
-#include "Server/include/resource/SystemResourceService.hpp"
+#include "Server/include/src/main/Resource.hpp"
+#include "Server/include/src/util/ArgvUtil.hpp"
+#include "Server/include/src/resource/SystemResourceService.hpp"
 
 
 #include <csignal>
