@@ -1,7 +1,7 @@
 #include "../../include/main/Resource.hpp"
 #include "Resource.cpp"
 #include "../service/SystemResourceService.cpp"
-#include "../util/ArgvUtil.cpp
+#include "../util/ArgvUtil.cpp"
 
 
 #include <csignal>
