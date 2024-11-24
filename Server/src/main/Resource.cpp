@@ -1,6 +1,7 @@
-#include "Server/include/main/Resource.hpp"
-#include "Server/include/util/ArgvUtil.hpp"
-#include "Server/include/resource/SystemResourceService.hpp"
+#include "../../include/main/Resource.hpp"
+#include "../../include/util/ArgvUtil.hpp"
+#include "../../include/resource/SystemResourceService.hpp"
+
 
 
 Resource Resource::instance;
