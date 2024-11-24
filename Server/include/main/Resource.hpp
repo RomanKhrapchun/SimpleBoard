@@ -4,7 +4,7 @@
 #include "../util/Result.hpp"
 #include "../util/ResultList.hpp"
 
-#include "service/SystemResourceService.hpp"
+#include "../service/SystemResourceService.hpp"
 
 class Resource {
 public:
