@@ -1,13 +1,13 @@
 #pragma once
 
-#include "resource/SystemInterfaceInfo.hpp"
+#include "../resource/SystemInterfaceInfo.hpp"
 
-#include "service/ServiceFactory.hpp"
-#include "service/ServiceInterface.hpp"
-#include "service/ServiceList.hpp"
+#include "ServiceFactory.hpp"
+#include "ServiceInterface.hpp"
+#include "ServiceList.hpp"
 
-#include "util/ArgvUtil.hpp"
-#include "util/ResultList.hpp"
+#include "../util/ArgvUtil.hpp"
+#include "../util/ResultList.hpp"
 
 #include <memory>
 #include <vector>

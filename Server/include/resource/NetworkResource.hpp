@@ -1,8 +1,8 @@
 #pragma once
 
-#include "resource/NetworkUsageInfo.hpp"
-#include "resource/NetworkInterfaceList.hpp"
-#include "util/Result.hpp"
+#include "NetworkUsageInfo.hpp"
+#include "NetworkInterfaceList.hpp"
+#include "../util/Result.hpp"
 
 #include <string>
 

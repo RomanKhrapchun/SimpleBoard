@@ -1,8 +1,8 @@
 #pragma once
 
-#include "util/Result.hpp"
-#include "util/ReturnedThread.hpp"
-#include "resource/NetworkUsageInfo.hpp"
+#include "../util/Result.hpp"
+#include "../util/ReturnedThread.hpp"
+#include "NetworkUsageInfo.hpp"
 
 class ThreadNetworkUsage : public ReturnedThread<NetworkUsageInfo> {
 public:

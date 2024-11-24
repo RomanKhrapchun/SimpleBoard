@@ -1,8 +1,8 @@
 #pragma once
 
-#include "print/PrintInterface.hpp"
+#include "PrintInterface.hpp"
 
-#include "resource/MemoryUsageInfo.hpp"
+#include "../resource/MemoryUsageInfo.hpp"
 
 class PrintMemoryUsageInfo : public PrintInterface {
 public:

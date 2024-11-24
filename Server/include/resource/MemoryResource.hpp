@@ -1,7 +1,7 @@
 #pragma once
 
-#include "resource/MemoryUsageInfo.hpp"
-#include "util/Result.hpp"
+#include "MemoryUsageInfo.hpp"
+#include "../util/Result.hpp"
 
 #include <sys/sysinfo.h>
 

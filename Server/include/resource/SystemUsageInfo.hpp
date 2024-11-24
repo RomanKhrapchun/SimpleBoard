@@ -1,8 +1,8 @@
 #pragma once
 
-#include "resource/CPUUsageInfo.hpp"
-#include "resource/NetworkUsageInfo.hpp"
-#include "resource/MemoryUsageInfo.hpp"
+#include "CPUUsageInfo.hpp"
+#include "NetworkUsageInfo.hpp"
+#include "MemoryUsageInfo.hpp"
 
 class SystemUsageInfo {
 public:

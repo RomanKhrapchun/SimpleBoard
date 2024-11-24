@@ -1,6 +1,6 @@
 #pragma once
 
-#include "service/ServiceInterface.hpp"
+#include "ServiceInterface.hpp"
 
 #include <memory>
 

@@ -1,8 +1,8 @@
 #pragma once
 
-#include "service/ServiceInterface.hpp"
+#include "ServiceInterface.hpp"
 
-#include "util/AsioBroadcastServerThread.hpp"
+#include "../util/AsioBroadcastServerThread.hpp"
 
 class ServerService : public ServiceInterface {
 public:

@@ -2,8 +2,8 @@
 
 #include "boost/asio.hpp"
 
-#include "util/Result.hpp"
-#include "util/ByteBuffer.hpp"
+#include "Result.hpp"
+#include "ByteBuffer.hpp"
 
 class AsioSession {
 public:

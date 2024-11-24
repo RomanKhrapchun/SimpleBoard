@@ -1,8 +1,8 @@
 #pragma once
 
-#include "util/Result.hpp"
-#include "util/ReturnedThread.hpp"
-#include "resource/CPUUsageInfo.hpp"
+#include "../util/Result.hpp"
+#include "../util/ReturnedThread.hpp"
+#include "CPUUsageInfo.hpp"
 
 class ThreadCPUUsage : public ReturnedThread<CPUUsageInfo> {
 public:

@@ -1,6 +1,6 @@
 #pragma once
 
-#include "util/Thread.hpp"
+#include "Thread.hpp"
 
 #include <vector>
 #include <memory>

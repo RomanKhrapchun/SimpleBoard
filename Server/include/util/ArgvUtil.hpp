@@ -3,8 +3,8 @@
 #include <iostream>
 #include <vector>
 
-#include "util/ArgvItemList.hpp"
-#include "util/ArgvItem.hpp"
+#include "ArgvItemList.hpp"
+#include "ArgvItem.hpp"
 
 class ArgvUtil {
 public:

@@ -1,8 +1,8 @@
 #pragma once
 
-#include "print/PrintInterface.hpp"
+#include "PrintInterface.hpp"
 
-#include "resource/NetworkUsageInfo.hpp"
+#include "../resource/NetworkUsageInfo.hpp"
 
 class PrintNetworkUsageInfo : public PrintInterface {
 public:

@@ -1,9 +1,9 @@
 #pragma once
 
-#include "resource/SystemInterfaceInfo.hpp"
-#include "resource/SystemUsageInfo.hpp"
+#include "SystemInterfaceInfo.hpp"
+#include "SystemUsageInfo.hpp"
 
-#include "util/ByteBuffer.hpp"
+#include "../util/ByteBuffer.hpp"
 
 class SystemResourceSerializer {
 public:

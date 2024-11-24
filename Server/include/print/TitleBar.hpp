@@ -1,6 +1,6 @@
 #pragma once
 
-#include "print/PrintInterface.hpp"
+#include "PrintInterface.hpp"
 
 enum class TITLEBAR_TYPE {
     MAIN,

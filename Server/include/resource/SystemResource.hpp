@@ -1,10 +1,10 @@
 #pragma once
 
-#include "util/Result.hpp"
-#include "util/ResultList.hpp"
+#include "../util/Result.hpp"
+#include "../util/ResultList.hpp"
 
-#include "resource/SystemInterfaceInfo.hpp"
-#include "resource/SystemUsageInfo.hpp"
+#include "SystemInterfaceInfo.hpp"
+#include "SystemUsageInfo.hpp"
 
 #include <vector>
 

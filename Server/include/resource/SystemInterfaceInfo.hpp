@@ -1,6 +1,6 @@
 #pragma once
 
-#include "resource/CPUInterfaceInfo.hpp"
+#include "CPUInterfaceInfo.hpp"
 
 class SystemInterfaceInfo {
 public:

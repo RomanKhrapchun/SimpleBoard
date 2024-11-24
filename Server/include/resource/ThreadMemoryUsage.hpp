@@ -1,8 +1,8 @@
 #pragma once
 
-#include "util/Result.hpp"
-#include "util/ReturnedThread.hpp"
-#include "resource/MemoryUsageInfo.hpp"
+#include "../util/Result.hpp"
+#include "../util/ReturnedThread.hpp"
+#include "MemoryUsageInfo.hpp"
 
 class ThreadMemoryUsage : public ReturnedThread<MemoryUsageInfo> {
 public:

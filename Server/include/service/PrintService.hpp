@@ -1,6 +1,6 @@
 #pragma once
 
-#include "service/ServiceInterface.hpp"
+#include "ServiceInterface.hpp"
 
 class PrintService : public ServiceInterface {
 public:

@@ -1,7 +1,7 @@
 #pragma once
 
-#include "util/Thread.hpp"
-#include "util/Result.hpp"
+#include "Thread.hpp"
+#include "Result.hpp"
 
 #include <thread>
 #include <future>

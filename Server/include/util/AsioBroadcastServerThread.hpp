@@ -1,10 +1,10 @@
 #pragma once
 
-#include "util/Result.hpp"
-#include "util/ResultList.hpp"
-#include "util/ReturnedThread.hpp"
-#include "util/AsioSessionList.hpp"
-#include "util/ByteBuffer.hpp"
+#include "Result.hpp"
+#include "ResultList.hpp"
+#include "ReturnedThread.hpp"
+#include "AsioSessionList.hpp"
+#include "ByteBuffer.hpp"
 
 #include "boost/asio.hpp"
 

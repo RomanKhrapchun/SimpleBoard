@@ -1,6 +1,6 @@
 #pragma once
 
-#include "util/Result.hpp"
+#include "Result.hpp"
 
 #include <vector>
 

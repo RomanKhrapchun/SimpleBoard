@@ -2,9 +2,9 @@
 
 #include <string>
 
-#include "util/Result.hpp"
-#include "resource/CPUInterfaceInfo.hpp"
-#include "resource/CPUUsageInfo.hpp"
+#include "../util/Result.hpp"
+#include "CPUInterfaceInfo.hpp"
+#include "CPUUsageInfo.hpp"
 
 class CPUResource {
 public:

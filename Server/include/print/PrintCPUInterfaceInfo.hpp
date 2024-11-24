@@ -1,9 +1,9 @@
 #pragma once
 
-#include "print/PrintInterface.hpp"
+#include "PrintInterface.hpp"
 
-#include "resource/CPUInterfaceInfo.hpp"
-#include "resource/CPUUsageInfo.hpp"
+#include "../resource/CPUInterfaceInfo.hpp"
+#include "../resource/CPUUsageInfo.hpp"
 
 class PrintCPUInterfaceInfo : public PrintInterface {
 public:

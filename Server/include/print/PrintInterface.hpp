@@ -2,7 +2,7 @@
 
 #include <iostream>
 
-#include "print/FontColor.hpp"
+#include "FontColor.hpp"
 
 class PrintInterface {
 public:
