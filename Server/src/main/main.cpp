@@ -2,7 +2,6 @@
 #include "../../include/service/SystemResourceService.hpp"
 #include "../../include/util/ArgvUtil.hpp"
 
-#include "Resource.сpp"
 #include "../service/SystemResourceService.сpp"
 #include "../util/ArgvUtil.сзp"
 
