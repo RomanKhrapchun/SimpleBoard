@@ -1,4 +1,4 @@
-#include "print/ProgressBar.hpp"
+#include "../../include/print/ProgressBar.hpp"
 
 #include <sstream>
 

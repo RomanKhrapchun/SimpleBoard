@@ -1,4 +1,4 @@
-#include "resource/SystemResourceSerializer.hpp"
+#include "../../include/resource/SystemResourceSerializer.hpp"
 
 #include <cstring>
 

@@ -1,5 +1,5 @@
-#include "resource/ThreadMemoryUsage.hpp"
-#include "resource/MemoryResource.hpp"
+#include "../../include/resource/ThreadMemoryUsage.hpp"
+#include "../../include/resource/MemoryResource.hpp"
 
 ThreadMemoryUsage::ThreadMemoryUsage() {
 

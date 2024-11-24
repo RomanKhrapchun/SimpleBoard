@@ -1,10 +1,10 @@
-#include "service/SystemResourceService.hpp"
+#include "../../include/service/SystemResourceService.hpp"
 
-#include "resource/SystemResource.hpp"
-#include "resource/SystemUsageInfo.hpp"
-#include "resource/SystemInterfaceInfo.hpp"
+#include "../../include/resource/SystemResource.hpp"
+#include "../../include/resource/SystemUsageInfo.hpp"
+#include "../../include/resource/SystemInterfaceInfo.hpp"
 
-#include "util/ArgvUtil.hpp"
+#include "../../include/util/ArgvUtil.hpp"
 
 const std::string SystemResourceService::OPTION_RUN_SERVER = "-s";
 const std::string SystemResourceService::OPTION_RUN_LOCAL  = "-l";

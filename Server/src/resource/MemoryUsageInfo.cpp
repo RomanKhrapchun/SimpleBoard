@@ -1,4 +1,4 @@
-#include "resource/MemoryUsageInfo.hpp"
+#include "../../include/resource/MemoryUsageInfo.hpp"
 
 MemoryUsageInfo::MemoryUsageInfo() {
     this->totalMemory = 0;

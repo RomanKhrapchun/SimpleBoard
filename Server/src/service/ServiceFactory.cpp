@@ -1,6 +1,6 @@
-#include "service/ServiceFactory.hpp"
-#include "service/PrintService.hpp"
-#include "service/ServerService.hpp"
+#include "../../include/service/ServiceFactory.hpp"
+#include "../../include/service/PrintService.hpp"
+#include "../../include/service/ServerService.hpp"
 
 ServiceFactory::ServiceFactory() {
 

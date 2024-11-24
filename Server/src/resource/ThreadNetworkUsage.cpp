@@ -1,5 +1,5 @@
-#include "resource/ThreadNetworkUsage.hpp"
-#include "resource/NetworkResource.hpp"
+#include "../../include/resource/ThreadNetworkUsage.hpp"
+#include "../../include/resource/NetworkResource.hpp"
 
 ThreadNetworkUsage::ThreadNetworkUsage(std::string& networkInterfaceName) {
     this->networkInterfaceName = networkInterfaceName;

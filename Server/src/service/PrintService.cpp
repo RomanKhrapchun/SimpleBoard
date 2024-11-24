@@ -1,11 +1,11 @@
-#include "service/PrintService.hpp"
+#include "../../include/service/PrintService.hpp"
 
-#include "print/FontColor.hpp"
-#include "print/TitleBar.hpp"
-#include "print/ProgressBar.hpp"
-#include "print/PrintCPUInterfaceInfo.hpp"
-#include "print/PrintMemoryUsageInfo.hpp"
-#include "print/PrintNetworkUsageInfo.hpp"
+#include "../../include/print/FontColor.hpp"
+#include "../../include/print/TitleBar.hpp"
+#include "../../include/print/ProgressBar.hpp"
+#include "../../include/print/PrintCPUInterfaceInfo.hpp"
+#include "../../include/print/PrintMemoryUsageInfo.hpp"
+#include "../../include/print/PrintNetworkUsageInfo.hpp"
 
 #include <iostream>
 

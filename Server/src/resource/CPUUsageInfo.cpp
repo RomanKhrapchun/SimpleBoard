@@ -1,4 +1,4 @@
-#include "resource/CPUUsageInfo.hpp"
+#include "../../include/resource/CPUUsageInfo.hpp"
 
 CPUUsageInfo::CPUUsageInfo() {
     this->cpuUsage = 0;

@@ -1,4 +1,4 @@
-#include "resource/NetworkResource.hpp"
+#include "../../include/resource/NetworkResource.hpp"
 
 #include <iostream>
 #include <vector>

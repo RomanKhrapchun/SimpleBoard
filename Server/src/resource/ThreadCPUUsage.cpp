@@ -1,5 +1,5 @@
-#include "resource/ThreadCPUUsage.hpp"
-#include "resource/CPUResource.hpp"
+#include "../../include/resource/ThreadCPUUsage.hpp"
+#include "../../include/resource/CPUResource.hpp"
 
 ThreadCPUUsage::ThreadCPUUsage() {
 

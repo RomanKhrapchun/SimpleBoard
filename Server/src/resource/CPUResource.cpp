@@ -1,5 +1,5 @@
-#include "resource/CPUResource.hpp"
-#include "util/StringUtil.hpp"
+#include "../../include/resource/CPUResource.hpp"
+#include "../../include/util/StringUtil.hpp"
 
 #include <iostream>
 #include <fstream>

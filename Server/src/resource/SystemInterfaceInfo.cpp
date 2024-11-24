@@ -1,4 +1,4 @@
-#include "resource/SystemInterfaceInfo.hpp"
+#include "../../include/resource/SystemInterfaceInfo.hpp"
 
 SystemInterfaceInfo::SystemInterfaceInfo() {
 

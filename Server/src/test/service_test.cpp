@@ -1,8 +1,8 @@
 #include <iostream>
 
-#include "util/ArgvUtil.hpp"
+#include "../../include/util/ArgvUtil.hpp"
 
-#include "service/SystemResourceService.hpp"
+#include "../../include/service/SystemResourceService.hpp"
 
 void testService(ArgvUtil& argvUtil, SERVICE_TYPE serviceType) {
     SystemResourceService service;

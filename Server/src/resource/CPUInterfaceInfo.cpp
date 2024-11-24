@@ -1,4 +1,4 @@
-#include "resource/CPUInterfaceInfo.hpp"
+#include "../../include/resource/CPUInterfaceInfo.hpp"
 
 CPUInterfaceInfo::CPUInterfaceInfo() {
     this->coreCount = 0;

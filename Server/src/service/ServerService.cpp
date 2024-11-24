@@ -1,6 +1,6 @@
-#include "service/ServerService.hpp"
+#include "../../include/service/ServerService.hpp"
 
-#include "resource/SystemResourceSerializer.hpp"
+#include "../../include/resource/SystemResourceSerializer.hpp"
 
 const int ServerService::DEFAULT_SERVICE_PORT = 36555;
 

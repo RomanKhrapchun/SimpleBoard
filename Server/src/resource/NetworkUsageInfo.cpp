@@ -1,4 +1,4 @@
-#include "resource/NetworkUsageInfo.hpp"
+#include "../../include/resource/NetworkUsageInfo.hpp"
 
 NetworkUsageInfo::NetworkUsageInfo() {
     this->sendSize = 0;

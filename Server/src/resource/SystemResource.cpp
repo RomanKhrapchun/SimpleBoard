@@ -1,12 +1,12 @@
-#include "resource/SystemResource.hpp"
-#include "resource/CPUResource.hpp"
-#include "resource/MemoryResource.hpp"
-#include "resource/NetworkResource.hpp"
-#include "resource/ThreadCPUUsage.hpp"
-#include "resource/ThreadMemoryUsage.hpp"
-#include "resource/ThreadNetworkUsage.hpp"
+#include "../../include/resource/SystemResource.hpp"
+#include "../../include/resource/CPUResource.hpp"
+#include "../../include/resource/MemoryResource.hpp"
+#include "../../include/resource/NetworkResource.hpp"
+#include "../../include/resource/ThreadCPUUsage.hpp"
+#include "../../include/resource/ThreadMemoryUsage.hpp"
+#include "../../include/resource/ThreadNetworkUsage.hpp"
 
-#include "util/ThreadManager.hpp"
+#include "../../include/util/ThreadManager.hpp"
 
 #include <thread>
 #include <vector>

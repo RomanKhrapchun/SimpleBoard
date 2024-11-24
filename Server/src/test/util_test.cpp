@@ -1,6 +1,6 @@
 #include <iostream>
 
-#include "util/ArgvUtil.hpp"
+#include "../../include/util/ArgvUtil.hpp"
 
 void testArgvUtil() {
     int argc = 7;

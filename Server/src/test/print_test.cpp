@@ -1,20 +1,20 @@
 #include <iostream>
 
-#include "util/Result.hpp"
+#include "../../include/util/Result.hpp"
 
-#include "print/ProgressBar.hpp"
-#include "print/FontColor.hpp"
-#include "print/TitleBar.hpp"
-#include "print/PrintCPUInterfaceInfo.hpp"
-#include "print/PrintMemoryUsageInfo.hpp"
-#include "print/PrintNetworkUsageInfo.hpp"
+#include "../../include/print/ProgressBar.hpp"
+#include "../../include/print/FontColor.hpp"
+#include "../../include/print/TitleBar.hpp"
+#include "../../include/print/PrintCPUInterfaceInfo.hpp"
+#include "../../include/print/PrintMemoryUsageInfo.hpp"
+#include "../../include/print/PrintNetworkUsageInfo.hpp"
 
-#include "resource/CPUResource.hpp"
-#include "resource/CPUInterfaceInfo.hpp"
-#include "resource/MemoryResource.hpp"
-#include "resource/MemoryUsageInfo.hpp"
-#include "resource/NetworkResource.hpp"
-#include "resource/NetworkUsageInfo.hpp"
+#include "../../include/resource/CPUResource.hpp"
+#include "../../include/resource/CPUInterfaceInfo.hpp"
+#include "../../include/resource/MemoryResource.hpp"
+#include "../../include/resource/MemoryUsageInfo.hpp"
+#include "../../include/resource/NetworkResource.hpp"
+#include "../../include/resource/NetworkUsageInfo.hpp"
 
 void testProgressBar() {
     std::cout << ProgressBar("test 50%", 50.0, 100.0, FontColor(FONT_COLOR::CPU_FONT_COLOR)) << std::endl;

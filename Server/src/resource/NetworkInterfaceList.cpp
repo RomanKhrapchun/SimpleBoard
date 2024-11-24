@@ -1,4 +1,4 @@
-#include "resource/NetworkInterfaceList.hpp"
+#include "../../include/resource/NetworkInterfaceList.hpp"
 
 NetworkInterfaceList::NetworkInterfaceList() {
 

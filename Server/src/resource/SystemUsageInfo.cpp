@@ -1,4 +1,4 @@
-#include "resource/SystemUsageInfo.hpp"
+#include "../../include/resource/SystemUsageInfo.hpp"
 
 SystemUsageInfo::SystemUsageInfo() {
 

@@ -1,4 +1,4 @@
-#include "print/PrintCPUInterfaceInfo.hpp"
+#include "../../include/print/PrintCPUInterfaceInfo.hpp"
 
 #include <sstream>
 

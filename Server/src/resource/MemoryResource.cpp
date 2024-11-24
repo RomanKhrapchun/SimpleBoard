@@ -1,4 +1,4 @@
-#include "resource/MemoryResource.hpp"
+#include "../../include/resource/MemoryResource.hpp"
 
 #include <sys/sysinfo.h>
 

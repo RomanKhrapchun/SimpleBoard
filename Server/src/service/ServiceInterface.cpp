@@ -1,4 +1,4 @@
-#include "service/ServiceInterface.hpp"
+#include "../../include/service/ServiceInterface.hpp"
 
 ServiceInterface::ServiceInterface() {
 

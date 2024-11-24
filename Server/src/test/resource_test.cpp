@@ -1,17 +1,17 @@
 #include <iostream>
 
-#include "util/Result.hpp"
+#include "../../include/util/Result.hpp"
 
-#include "resource/NetworkResource.hpp"
-#include "resource/NetworkUsageInfo.hpp"
-#include "resource/MemoryResource.hpp"
-#include "resource/MemoryUsageInfo.hpp"
-#include "resource/CPUInterfaceInfo.hpp"
-#include "resource/CPUResource.hpp"
-#include "resource/CPUUsageInfo.hpp"
-#include "resource/SystemResource.hpp"
-#include "resource/SystemUsageInfo.hpp"
-#include "resource/SystemInterfaceInfo.hpp"
+#include "../../include/resource/NetworkResource.hpp"
+#include "../../include/resource/NetworkUsageInfo.hpp"
+#include "../../include/resource/MemoryResource.hpp"
+#include "../../include/resource/MemoryUsageInfo.hpp"
+#include "../../include/resource/CPUInterfaceInfo.hpp"
+#include "../../include/resource/CPUResource.hpp"
+#include "../../include/resource/CPUUsageInfo.hpp"
+#include "../../include/resource/SystemResource.hpp"
+#include "../../include/resource/SystemUsageInfo.hpp"
+#include "../../include/resource/SystemInterfaceInfo.hpp"
 
 static void testSystemResource() {
     SystemResource resource;
