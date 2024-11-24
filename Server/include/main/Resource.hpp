@@ -1,8 +1,8 @@
 #pragma once
 
-#include "../../util/ArgvUtil.hpp"
-#include "../../util/Result.hpp"
-#include "../../util/ResultList.hpp"
+#include "../util/ArgvUtil.hpp"
+#include "../util/Result.hpp"
+#include "../util/ResultList.hpp"
 
 #include "service/SystemResourceService.hpp"
 
