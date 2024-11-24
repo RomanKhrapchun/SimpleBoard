@@ -1,4 +1,4 @@
-#include "../resource/Resource.hpp"
+#include "../main/Resource.hpp"
 #include "../util/ArgvUtil.hpp"
 #include "../resource/SystemResourceService.hpp"
 
